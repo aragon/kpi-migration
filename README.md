@@ -26,10 +26,10 @@ seem to be supported by any dapp wallet. Because of such limitations, the curren
 
 * clone this repository
 * run `yarn`
-* go to `script.js` and update 2 things(your private key and your big junk of letters you received in `step 1`. To exactly find what 2 things you have to replace, you will find `TODO` keywords in the `script.js` file)
-* once all is done, run `node script.js` in the terminal. Wait a couple of seconds and it should submit the transaction.
+* go to `mainnet.js` and update 2 things(your private key and your big junk of letters you received in `step 1`. To exactly find what 2 things you have to replace, you will find `TODO` keywords in the `mainnet.js` file)
+* once all is done, run `node mainnet.js` in the terminal. Wait a couple of seconds and it should submit the transaction.
 
 ### Security
 
 This script is as secure as calling any transaction from any dapp. Just make sure that once you execute the transaction, you remove the private key from
-`script.js` file so that it doesn't stay there for future reference or anything...
+`mainnet.js` file so that it doesn't stay there for future reference or anything...
