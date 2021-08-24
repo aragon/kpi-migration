@@ -1,0 +1,11 @@
+{
+  "name": "kpi-migration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aragon/kpi-migration.git",
+  "author": "Giorgi Lagidze <giorgi.lagidze@toptal.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.4.5"
+  }
+}
