@@ -18,9 +18,9 @@ seem to be supported by any dapp wallet. Because of such limitations, the curren
 
 **STEP 1**
 
-* You go to `client.aragon.org` , find your dao, and move to `govern-migration` route for that dao.
-* You put your Govern Executor Address, located on the DAO settings of the specific DAO on `https://govern.aragon.org`.
-* Then you generate the script which will show the big, huge junk of letters, numbers. DO MAKE sure that you copy it exactly as it's shown.
+* go to `client.aragon.org` , find your dao, and move to `govern-migration` route for that dao.
+* put your Govern Executor Address, located on the DAO settings of the specific DAO on `https://govern.aragon.org`.
+* Then, generate the script which will show the big, huge junk of letters, numbers. DO MAKE sure that you copy it exactly as it's shown.
 
 **STEP 2**
 
